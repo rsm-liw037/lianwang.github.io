@@ -1,0 +1,15 @@
+---
+title: "Lian Wang"
+image: "files/profile_pic.png"
+
+about: 
+    template: jolla
+    links:
+        - icon: envelope
+          href: mailto:lianwangsf@gmail.com
+        - icon: linked
+          href: https://www.linkedin.com/in/lian-wang/
+---
+
+Welcome to my website.
+I'm a customer behavior research scientist. 
